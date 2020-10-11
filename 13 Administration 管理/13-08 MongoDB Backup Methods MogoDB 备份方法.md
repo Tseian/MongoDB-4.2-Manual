@@ -60,7 +60,7 @@ Sharded cluster snapshots are difficult to achieve with other MongoDB backup met
 
 To get started with MongoDB Cloud Manager Backup, sign up for [MongoDB Cloud Manager](https://www.mongodb.com/cloud/cloud-manager/?tck=docs_server). For documentation on MongoDB Cloud Manager, see the [MongoDB Cloud Manager documentation](https://docs.cloudmanager.mongodb.com/).
 
-要开始使用 MongoDB Cloud Manager 备份，请注册 [MongoDB Cloud Manager](https://www.mongodb.com/cloud/cloud-manager/?tck=docs_server)。有关 MongoDB Cloud Manager 的文档，请参阅 [MongoDB Cloud Manager 的文档](https://docs.cloudmanager.mongodb.com/)。
+开始使用 MongoDB Cloud Manager 备份之前，请注册 [MongoDB Cloud Manager](https://www.mongodb.com/cloud/cloud-manager/?tck=docs_server)。有关 MongoDB Cloud Manager 的文档，请参阅 [MongoDB Cloud Manager 的文档](https://docs.cloudmanager.mongodb.com/)。
 
 ### Ops Manager
 ### Ops Manager
@@ -195,3 +195,8 @@ For 4.2+ sharded clusters with in-progress sharded transactions, use one of the 
 See [Back Up and Restore with MongoDB Tools](https://docs.mongodb.com/manual/tutorial/backup-and-restore-tools/) and [Back Up a Sharded Cluster with Database Dumps](https://docs.mongodb.com/manual/tutorial/backup-sharded-cluster-with-database-dumps/) for more information.
 
 有关更多信息请参阅[Back Up and Restore with MongoDB Tools](https://docs.mongodb.com/manual/tutorial/backup-and-restore-tools/) 和 [Back Up a Sharded Cluster with Database Dumps](https://docs.mongodb.com/manual/tutorial/backup-sharded-cluster-with-database-dumps/)
+
+
+原文链接：https://docs.mongodb.com/manual/core/backups/
+
+译者：谢伟成
